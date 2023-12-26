@@ -1,0 +1,27 @@
+#startMenu{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#name{
+    font-size: 53px;
+}
+.button{
+    width: 30%;
+    height: 100px;
+    border-radius: 20px;
+    background-color: #182cf9;
+    align-items: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+}
+.button:hover{
+    background-color: red;
+    color: black;
+}

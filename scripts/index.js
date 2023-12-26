@@ -1,0 +1,1 @@
+import start from "./startMenu.js"

@@ -1,0 +1,21 @@
+@import "startMenu.css";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    background-image: url("https://hangmanwordgame.com/static/img/graph_paper.jpg");
+}
+#game{
+    width: 76%;
+    height: 500px;
+    max-width: 800px;
+    border: 1px solid black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+}
