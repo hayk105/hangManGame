@@ -10,11 +10,54 @@ export default [
                 "name" : "frog",
             },
             {
+                "name" : "turtle",
+            },
+            {
                 "name" : "chicken",
             },
             {
-                "name" : "turtle",
+                "name" : "crab",
+            },
+            {
+                "name": 'rabbit',
             }
-        ]
+            ,
+            {
+                "name": 'shark',
+            },
+            {
+             "name": 'crocodile',
+            },
+            {
+                "name" : "giraffe",
+            },
+            {
+                "name" : "cow",
+            },
+            {
+                "name" : "horse",
+            },
+            {
+                "name" : "butterfly",
+            },
+            {
+                "name" : "bull",
+            },
+            {
+                "name" : "pig",
+            },
+            {
+                "name" : "rhino",
+            },
+            {
+                "name" : "sheep",
+            },
+            {
+                "name" : "snake",
+            },
+            {
+                "name" : "panda",
+            }
+    ]
     }
 ];
